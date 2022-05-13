@@ -27,7 +27,7 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "@types/google.maps": "^3.45.6"
+    "@types/google.maps": "^3.48.8"
   },
   "devDependencies": {
     "rimraf": "^2.6.2",
